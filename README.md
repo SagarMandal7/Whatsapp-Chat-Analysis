@@ -21,7 +21,7 @@ Handling multimedia content, timestamps, and other non-text elements.
 * Time-based analysis to reveal peak activity hours and busy days
 
 ### To run :
-streamlit run app.py
+--> streamlit run app.py
 
 
 ### Conclusion
