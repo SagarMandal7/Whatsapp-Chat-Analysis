@@ -6,8 +6,8 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Data Preprocessing](#Data Preprocessing)
-- [User Interface](#User Interface)
+- [Data_Preprocessing](#Data_Preprocessing)
+- [User_Interface](#User_Interface)
 - [Setup](#setup)
 - [Conclusion](#conclusion)
 - [License](#license)
@@ -20,11 +20,11 @@ Chat Data Import:
 * Capability to import WhatsApp chat data from text files or exported CSV files.
 * Support for group chats and individual conversations.
 
-## Data Preprocessing
+## Data_Preprocessing
 Cleaning and organizing chat data for effective analysis.
 Handling multimedia content, timestamps, and other non-text elements.
 
-## User Interface
+## User_Interface
 * Intuitive dashboard providing key statistics and visualizations.
 * Timeline view of messages for a chronological understanding of conversations.
 * Sentiment analysis to categorize messages as positive, negative, or neutral.
