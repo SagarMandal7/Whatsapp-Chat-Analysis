@@ -1,4 +1,5 @@
 # Whatsapp-Chat-Analysis
+![image](https://github.com/SagarMandal7/Whatsapp-Chat-Analysis/assets/146010223/13e94610-1775-4d1a-8b48-ca36545f492e)
 
 ## Project Overview
 The WhatsApp Chat Analysis project aims to provide users with a comprehensive analysis of their WhatsApp chat conversations. With the widespread use of WhatsApp for personal and professional communication, analyzing chat data can reveal valuable insights, including user engagement patterns, sentiment analysis, and frequently used words. This project combines data analysis techniques, natural language processing, and a user-friendly interface to make WhatsApp chat analysis accessible and insightful.
